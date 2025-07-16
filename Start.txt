@@ -1,0 +1,4 @@
+2-3 word something
+$ git add .
+warning: in the working copy of 'Start.txt', LF will be replaced by CRLF the next time Git touches it
+
